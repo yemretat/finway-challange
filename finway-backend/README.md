@@ -2,7 +2,7 @@
 
 This is a REST API developed using node and express with typescript
 
-![Adsız (900 x 380 px) (1)](https://user-images.githubusercontent.com/96056425/147448581-a2530bd0-087f-465e-a296-eccb154188a8.png)
+![Adsız (900 x 380 px) (2)](https://user-images.githubusercontent.com/66990093/149416621-e2916020-2a08-4307-b5d6-dd6edb587788.png)
 
 ## Technical Details About the Project
 
