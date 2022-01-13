@@ -15,7 +15,7 @@ Access the video link : https://drive.google.com/file/d/1XTM1kjvduoBi1_S0HZ8njS9
 ## ScreenShots
 
 
-![Adsız tasarım (9)](https://user-images.githubusercontent.com/66990093/149423243-2877e953-6440-4339-8bd2-3675e0f53cd3.png)
+![Adsız tasarım (10)](https://user-images.githubusercontent.com/66990093/149424527-a5c1ea0e-e916-43df-a885-51a2dc2e22eb.png)
 ![Adsız tasarım (8)](https://user-images.githubusercontent.com/66990093/149423208-17379322-8dc3-40a6-8554-9748b66f36bc.png)
 
 
