@@ -1,0 +1,25 @@
+version: '3' #docker compose version
+services:
+  finway-challange:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    image: finway_challange
+    ports:
+     - "5000:5000"
+    container_name: finway-challange_container
+    networks:
+      - finway-network
+    links:
+      - redis_image
+  redis_image:
+    image: "redis:alpine"
+    expose:
+     - "6379"
+    ports:
+     - "6379:6379"
+    networks:
+      - finway-network
+    container_name: redis_image
+networks:
+      finway-network:
