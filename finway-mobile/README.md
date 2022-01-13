@@ -12,9 +12,11 @@ Access the video link : https://drive.google.com/file/d/1XTM1kjvduoBi1_S0HZ8njS9
   * Execute `npm install`
   * Execute `npm start` and you will be able to access via expo-cli
 
-![firstImage](https://user-images.githubusercontent.com/66990093/149421335-d5592396-1fb8-4ebb-9d0b-5afebff72d4b.jpeg)
+![Adsız tasarım (9)](https://user-images.githubusercontent.com/66990093/149423243-2877e953-6440-4339-8bd2-3675e0f53cd3.png)
 
 
 
-![secondImage](https://user-images.githubusercontent.com/66990093/149421363-f3bad103-1427-4ea6-a66f-251034b625b8.jpeg)
+
+![Adsız tasarım (8)](https://user-images.githubusercontent.com/66990093/149423208-17379322-8dc3-40a6-8554-9748b66f36bc.png)
+
 
