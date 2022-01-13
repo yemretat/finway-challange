@@ -30,7 +30,7 @@ Following are the features of this project:
 
 * **Logging Mechanism is provided** : The critical errors are logged through winston
 
-* **Note** : Since the API we use is limited for developers, I received a maximum of 5 news per request. I configured the pagination size 5 in mobile part
+* **Note** : Since the API we use is limited for developers, I received 5 news per request. I configured the pagination size 5 in the mobile part
 
 ## How to build and run this project
 #### Install using Docker Compose [**Recommended Method**] 
