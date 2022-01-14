@@ -11,6 +11,7 @@ Access the video link : https://drive.google.com/file/d/1XTM1kjvduoBi1_S0HZ8njS9
 
   * Execute `npm install`
   * Execute `npm start` and you will be able to access via expo-cli
+  * Adjust your ip in `common` folder 
 
 ## ScreenShots
 
