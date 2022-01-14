@@ -44,7 +44,7 @@ Following are the features of this project:
   * Execute `npm start` and You will be able to access the API from http://localhost:5000
   * To run the tests execute `npm test`.
 
- ## Directory Traversal for toDeepLink API call
+ ## Directory Traversal for API call
  `/src → server.ts → /controller/ServerIndex.ts -> /controller/index.ts -> /controller/news.ts -> /middlewares/redis/RedisMiddleware -> middlewares/query/NewsQueryMiddleware -> /controller/Concrete/NewsController `
  
 
